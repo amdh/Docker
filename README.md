@@ -27,3 +27,6 @@ docker stop <container_name>
 
 
 8. Remove all images<br>
+
+9. Build docker image
+docker image build -t --name
